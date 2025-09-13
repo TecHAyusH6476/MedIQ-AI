@@ -52,7 +52,7 @@ doc_search = PineconeVectorStore.from_documents(
 
 print("upsert is successful..")
 author = Document(
-    page_content = "Surya Potnuru is a GenAI developer, Works in Bobble AI. having 2yrs+ experience author of this medical chatbot",
+    page_content = "Ayush Singh is a Software Engineer, Works in Bobble AI. having 3yrs+ experience author of this medical chatbot",
     metadata={"source": "personal"}
 )
 
